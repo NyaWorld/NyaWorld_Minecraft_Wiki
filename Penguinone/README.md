@@ -23,18 +23,18 @@
 如果您在杭州等地或距离杭州较近(华东)，可以使用以下地址(杭州移动-200Mbps):
 > hgh.play.nya.world
 
-~~如果您在广州等地或距离广州较近(华南)，可以使用以下地址(阿里云广州):  
-> can.play.nya.world
+~~如果您在广州等地或距离广州较近(华南)，可以使用以下地址(阿里云广州):~~
+~~> can.play.nya.world~~
 
-~~如果您在香港等地或距离香港较近，可以使用香港线路(腾讯云香港):
->	hkg.play.nya.world
+~~如果您在香港等地或距离香港较近，可以使用香港线路(腾讯云香港):~~
+~~>	hkg.play.nya.world~~
 
-~~如果您在东京等地或距离东京较近，可以使用东京线路(Amazon Web Services Tokyo):
->	tyo.play.nya.world
+~~如果您在东京等地或距离东京较近，可以使用东京线路(Amazon Web Services Tokyo):~~
+~~>	tyo.play.nya.world~~
 
-~~如果您出现认证服务器失败，可尝试指定认证服务器:
-香港:
-> hk.mc.login.nya.world
+~~如果您出现认证服务器失败，可尝试指定认证服务器:~~
+~~香港:~~
+~~> hk.mc.login.nya.world~~
 
 如果您仍旧存在延迟过高等问题，请联系管理组提供网络ISP等信息以便排查问题
 
